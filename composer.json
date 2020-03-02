@@ -3,10 +3,8 @@
     "description": "This Laravel package allows you to clear the OPcache of a PHP application running in FPM mode with ease.",
     "type": "package",
     "require": {
-        "php": ">=5.5.9",
-        "illuminate/http": "^5.0",
-        "illuminate/support": "^5.0",
-        "illuminate/console": "^5.0",
+        "php": ">=7.2",
+        "laravel/framework": "~5.6.0|~5.7.0|~5.8.0|~6.0",
         "guzzlehttp/guzzle": "^6.2"
     },
     "keywords":
